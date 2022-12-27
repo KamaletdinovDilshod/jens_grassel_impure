@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8705eaec-f442-4663-bec8-b95494b95717" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/src/it/scala">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="jens_grassel_impure" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.7.0/akka-stream_2.13-2.7.0-sources.jar!/akka/stream/ActorMaterializer.scala" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.7.0/akka-stream_2.13-2.7.0-sources.jar!/akka/stream/Materializer.scala" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JK0qAmVZVOM2W17tyUldNu8d9V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/home/dilshod/IdeaProjects/jens_grassel_impure/src/it",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.22324508",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/it" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/it/scala/impure/usecases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Impure">
+    <configuration name="Impure" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="impure.Impure" />
+      <module name="jens_grassel_impure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="impure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoadProduct.Loading a Product by ID when the ID does exist must return $expectedStatus and the Product&#10;Loading a Product by ID when the ID does not exist must return $expectedStatus" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="jens_grassel_impure" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="impure_test.usecases.LoadProduct" />
+      <option name="testName" value="Loading a Product by ID when the ID does exist must return $expectedStatus and the Product&#10;Loading a Product by ID when the ID does not exist must return $expectedStatus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoadProducts.Loading all products when no products exist must return $expectedStatus and an empty list&#10;Loading all products when products exist must return $expectedStatus and a list with all products" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="jens_grassel_impure" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="impure_test.usecases.LoadProducts" />
+      <option name="testName" value="Loading all products when no products exist must return $expectedStatus and an empty list&#10;Loading all products when products exist must return $expectedStatus and a list with all products" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveProduct.Saving a Product when the posted JSON is valid when the product does exist must return $expectedStatus and not save the Product&#10;Saving a Product when the posted JSON is valid when The product data does not exist must return $expectedStatus and save the Product" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="jens_grassel_impure" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="impure_test.usecases.SaveProduct" />
+      <option name="testName" value="Saving a Product when the posted JSON is valid when the product does exist must return $expectedStatus and not save the Product&#10;Saving a Product when the posted JSON is valid when The product data does not exist must return $expectedStatus and save the Product" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateProduct.Updating a product when the posted JSON is invalid must return $expectedStatus and update the product&#10;Updating a product when the posted JSON is valid when the product does exist must return $expectedStatus and update the Product&#10;Updating a product when the posted JSON is valid when the product does not exist must return $expectedStatus" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="jens_grassel_impure" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="impure_test.usecases.UpdateProduct" />
+      <option name="testName" value="Updating a product when the posted JSON is invalid must return $expectedStatus and update the product&#10;Updating a product when the posted JSON is valid when the product does exist must return $expectedStatus and update the Product&#10;Updating a product when the posted JSON is valid when the product does not exist must return $expectedStatus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Impure" />
+        <item itemvalue="ScalaTest.UpdateProduct.Updating a product when the posted JSON is invalid must return $expectedStatus and update the product&#10;Updating a product when the posted JSON is valid when the product does exist must return $expectedStatus and update the Product&#10;Updating a product when the posted JSON is valid when the product does not exist must return $expectedStatus" />
+        <item itemvalue="ScalaTest.SaveProduct.Saving a Product when the posted JSON is valid when the product does exist must return $expectedStatus and not save the Product&#10;Saving a Product when the posted JSON is valid when The product data does not exist must return $expectedStatus and save the Product" />
+        <item itemvalue="ScalaTest.LoadProduct.Loading a Product by ID when the ID does exist must return $expectedStatus and the Product&#10;Loading a Product by ID when the ID does not exist must return $expectedStatus" />
+        <item itemvalue="ScalaTest.LoadProducts.Loading all products when no products exist must return $expectedStatus and an empty list&#10;Loading all products when products exist must return $expectedStatus and a list with all products" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8705eaec-f442-4663-bec8-b95494b95717" name="Changes" comment="" />
+      <created>1671811660692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671811660692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
