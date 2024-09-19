@@ -36,9 +36,8 @@ object Dependencies {
     val circeParser  = circe("circe-parser")
     val circeRefined = circe("circe-refined")
 
-    val refinedCore       = "eu.timepit" %% "refined"            % Versions.refinedCore
-    val refinedCats       = "eu.timepit" %% "refined-cats"       % Versions.refined
-    val refinedPureconfig = "eu.timepit" %% "refined-pureconfig" % Versions.refined
+    val refinedCore = "eu.timepit" %% "refined"      % Versions.refinedCore
+    val refinedCats = "eu.timepit" %% "refined-cats" % Versions.refined
 
     val slick           = "com.typesafe.slick"  %% "slick"              % Versions.slick
     val slickHikaricp   = "com.typesafe.slick"  %% "slick-hikaricp"     % Versions.slickHikari
@@ -49,8 +48,6 @@ object Dependencies {
 
     val flyway         = "org.flywaydb" % "flyway-core"                % "10.15.2"
     val flywayPostgres = "org.flywaydb" % "flyway-database-postgresql" % "10.15.2"
-
-    val pureConfig = "com.github.pureconfig" %% "pureconfig" % Versions.pureConfig
 
     val logback = "ch.qos.logback" % "logback-classic" % "1.5.6" % Runtime
     val slf4j   = "org.slf4j"      % "slf4j-api"       % "2.0.12"
@@ -73,14 +70,12 @@ object Dependencies {
     Libraries.circeRefined,
     Libraries.refinedCore,
     Libraries.refinedCats,
-    Libraries.refinedPureconfig,
     Libraries.slick,
     Libraries.slickHikaricp,
     Libraries.slickPg,
     Libraries.slickPgPlayJson,
     Libraries.postgresql,
     Libraries.flyway,
-    Libraries.pureConfig,
     Libraries.scalacheck,
     Libraries.scalatest,
     Libraries.scalatestPlus,
@@ -90,7 +85,6 @@ object Dependencies {
   )
 
   val integrationDependencies: Seq[ModuleID] = Seq(
-    Libraries.pureConfig,
     Libraries.scalacheck,
     Libraries.scalatest,
     Libraries.scalatestPlus
